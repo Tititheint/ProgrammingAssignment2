@@ -38,6 +38,6 @@ x[2, 1]
 
 ## Write a short comment describing this function
 
-cacheSolve <- function(x = matrix(1:6, 2,3)) {   j    
+cacheSolve <- function(x = matrix(1:6, 2,3)) {       
 }
 	
